@@ -1,12 +1,25 @@
 {
+
   "name": "EvolutionBot",
+
+  "description": "EvolutionBot",
+
   "version": "1.0.0",
-  "description": "EvolutionCheats Bot",
+
   "main": "bot.js",
-  "author": "DusieK",
-  "start:" "node bot.js"
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
-    "winston": "^3.2.1"
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
   }
+
 }
