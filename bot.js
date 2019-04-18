@@ -1,6 +1,6 @@
 var Discord = require ( 'discord.io' );
  
-var botToken =  'NTY4MDE4NDg2NDAwMzg1MDI1.XLcsdw.xoH_UWTA6zRT3PZkdsDawgJcVQI' ;
+var botToken =  'NTY4NTQ0NTUzMTg4MTk2MzY4.XLjo7Q.V5t0Yy1aaDJA-eZyoLPgn6hQkkE' ;
  
 var bot =  new Discord.Client ({
     token : botToken
