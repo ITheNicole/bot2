@@ -11,5 +11,6 @@ client.on('ready', () => {
 });
 
 client.login(process.env.BOT_TOKEN);
-client.user.setGame("Game");
+
+bot.user.setPresence({ game: { name: 'with depression', type: "streaming", url: "https://www.twitch.tv/monstercat"}}); 
 
