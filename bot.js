@@ -6,10 +6,10 @@ const client = new Discord.Client();
 client.on('ready', () => {
 
     console.log('I am ready!');
-    client.user.setGame("Game");
 
 
 });
 
 client.login(process.env.BOT_TOKEN);
+client.user.setGame("Game");
 
