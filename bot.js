@@ -6,7 +6,7 @@ client.on('ready', () => {
     client.user.setStatus('available')
     client.user.setPresence({
         game: {
-            name: 'www.evolutioncheats.xyz',
+            name: 'evolutioncheats.xyz',
             type: "STREAMING",
             url: "https://www.twitch.tv/evoluntioncheats"
         }
