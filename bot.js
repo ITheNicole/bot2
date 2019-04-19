@@ -8,7 +8,7 @@ client.on('ready', () => {
         game: {
             name: 'www.evolutioncheats.xyz',
             type: "STREAMING",
-            url: "https://www.evolutioncheats.xyz"
+            url: "https://www.twitch.tv/"
         }
     });
 });
