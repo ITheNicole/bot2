@@ -11,4 +11,5 @@ client.on('ready', () => {
 
 client.login(process.env.BOT_TOKEN);
 
-bot.user.setGame('test');
+bot.on('ready', () => {
+  bot.user.setGame('GAME HERE')
