@@ -6,9 +6,9 @@ client.on('ready', () => {
     client.user.setStatus('available')
     client.user.setPresence({
         game: {
-            name: 'with depression',
+            name: 'www.evolutioncheats.xyz',
             type: "STREAMING",
-            url: "https://www.twitch.tv/monstercat"
+            url: "https://www.evolutioncheats.xyz"
         }
     });
 });
